@@ -6,4 +6,4 @@ Todo list app
 Также были рассмотрены способы работы с UserDefaults,
 Codable protocol, CoreData
 
-![alt text][screen record]
+![][screen record.gif]
